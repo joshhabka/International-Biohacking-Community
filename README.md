@@ -31,5 +31,6 @@ The International Biohacking Community is a place where people across the globe 
 **X:** https://twitter.com/biohackingintl
 
 # DeHealth QF - Regenerative Decentralized Health Funding
+Decentralized Health(DeHealth) QF is an initiative by the International Biohacking Community to enable access to funding for regenerative decentralized health and biology organizations who help to further research in the following fields: health, biomedical, biotechnology, biohacking, biology, DIY-biology, mental health, grinding, and more.
 ![Copy of INTERNATIONALBIOHACKINGCOMMUNITYGITCOINHEADER (3)](https://github.com/joshhabka/International-Biohacking-Community/assets/108092727/b8b2afc3-c2bb-44ae-a1f0-693630787e85)
 * **Website:** https://blog.biohackinginternational.com/dehealth-qf/
