@@ -1,0 +1,39 @@
+# International Biohacking Community Gitcoin Test Round 1 Preliminary Report
+**Sponsors:** N/A
+**Chains:** Arbitrum One, Scroll
+**Total Projects:** 2
+**Total Raised:** $16.20
+**Dates:** May 9 - July 1 2024
+
+*Note: information is preliminary and being updated*
+
+## Payout Transactions
+*Pending from Gitcoin*
+
+## Total Stats by Chains
+| Chain    | Contributors | Contributions | Donated $ | Projects Count |
+|----------|--------------|---------------|-----------|----------------|
+| Arbitrum   | 2           | 2            | 16.20    | 2              |
+| Scroll     | 0            | 0            | 0     | 1              |
+
+## Round Stats
+| Chain    | Saturation | Original Pool | Adj Matching |
+|----------|------------|---------------|--------------|
+| Arbitrum | 0          | 1             | 0            |
+| Scroll     | 0        | 0            | 0          |
+
+## Total Stats by Projects
+(amount, contributions) results are floored, blank cell - the project was not on the chain
+| Project                                       | Arbitrum         | Scroll       | Total          |
+|-----------------------------------------------|----------------|---------------|----------------|
+| International Biohacking Community           | ($16.20, 0) | ($0,0) | ($16.20,0) | 
+| International Biohacking Community Forums     | ($0,0) | ($0,0) | ($0,0)  | 
+
+# Links
+## Links to Live Rounds to Donate
+* **Arbitrum:** https://explorer.gitcoin.co/#/round/42161/57
+* **Scroll:** https://explorer.gitcoin.co/#/round/534352/9
+
+## Links to Report Cards with Round Stats
+* **Arbitrum:** https://reportcards.gitcoin.co/42161/57
+* **Scroll:** https://reportcards.gitcoin.co/534352/9
